@@ -1,0 +1,15 @@
+C:\Users\Akashic Records\Desktop\ReposBoot\If_Statements_Exercise\If_State_EXE\If_State_EXE\bin\Debug\net6.0\If_State_EXE.exe
+C:\Users\Akashic Records\Desktop\ReposBoot\If_Statements_Exercise\If_State_EXE\If_State_EXE\bin\Debug\net6.0\If_State_EXE.deps.json
+C:\Users\Akashic Records\Desktop\ReposBoot\If_Statements_Exercise\If_State_EXE\If_State_EXE\bin\Debug\net6.0\If_State_EXE.runtimeconfig.json
+C:\Users\Akashic Records\Desktop\ReposBoot\If_Statements_Exercise\If_State_EXE\If_State_EXE\bin\Debug\net6.0\If_State_EXE.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\If_Statements_Exercise\If_State_EXE\If_State_EXE\bin\Debug\net6.0\If_State_EXE.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\If_Statements_Exercise\If_State_EXE\If_State_EXE\obj\Debug\net6.0\If_State_EXE.csproj.AssemblyReference.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\If_Statements_Exercise\If_State_EXE\If_State_EXE\obj\Debug\net6.0\If_State_EXE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akashic Records\Desktop\ReposBoot\If_Statements_Exercise\If_State_EXE\If_State_EXE\obj\Debug\net6.0\If_State_EXE.AssemblyInfoInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\If_Statements_Exercise\If_State_EXE\If_State_EXE\obj\Debug\net6.0\If_State_EXE.AssemblyInfo.cs
+C:\Users\Akashic Records\Desktop\ReposBoot\If_Statements_Exercise\If_State_EXE\If_State_EXE\obj\Debug\net6.0\If_State_EXE.csproj.CoreCompileInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\If_Statements_Exercise\If_State_EXE\If_State_EXE\obj\Debug\net6.0\If_State_EXE.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\If_Statements_Exercise\If_State_EXE\If_State_EXE\obj\Debug\net6.0\refint\If_State_EXE.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\If_Statements_Exercise\If_State_EXE\If_State_EXE\obj\Debug\net6.0\If_State_EXE.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\If_Statements_Exercise\If_State_EXE\If_State_EXE\obj\Debug\net6.0\If_State_EXE.genruntimeconfig.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\If_Statements_Exercise\If_State_EXE\If_State_EXE\obj\Debug\net6.0\ref\If_State_EXE.dll
